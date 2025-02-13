@@ -1,6 +1,6 @@
 CICD Project for practice
 Tools used in this project:
-   git, github. maven, jenkins, Tomcat
+ git, github. maven, jenkins, Tomcat
 
 Commands for Tools installlation
 1) Install Git
